@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.VR-front-page{
+    background-color: rgb(255, 255, 255);
+}
+
+.main-heading{
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.card-title{
+    color: #1f2933;
+    font-size: 27px;
+    font-family: "Roboto";
+}
+
+.card-discription{
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.higlite-word{
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+
+
+/* VR Kit section */
+
+
+.vr-kit-section{
+    background-color: rgb(227, 241, 247);
+}
+
+.kit-sec-main-heading{
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.VR-title{
+    font-size: 25px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+/* VR  Controll  section */
+
+.VR-control-sec{
+    background-color: rgb(245, 246, 246);
+}
+
+.VR-control-sec-title{
+    color: #1a2137;
+    font-weight: bold;
+    font-size: 37px;
+    font-family: "Roboto";
+}
+
+.card-control-sec-discription{
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.card-control-sec-button{
+    color: white;
+    font-size: 19px;
+    background-color: #06080a;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 10px;
+    height: 50;
+    width: 140px;
+}
+
+
+
+/* VR contacts us section */
+
+.VR-contact-us-section{
+    background-color: #222b36;
+}
+.contact-us-main-heading{
+    color: aliceblue;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.contact-us-button{
+    color: aliceblue;
+    background-color: transparent;
+    border-color: aliceblue;
+    border-radius: 4px;
+    margin-bottom: 45px;
+}
+
+
+
+/* VR blog section */
+.VR-trending-blog-section{
+    background-color: aliceblue;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.tren-blog-card{
+    border-radius: 9px;
+    padding-bottom: 12px;
+}
+
+.tren-blog-main-heading{
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.tren-blog-title{
+    color: #959ead;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.tren-blog-discription{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.VR-blog-button{
+    color: white;
+    background-color: #1754a1;
+    font-family: "Roboto";
+    font-size: 12px;
+    border-radius: 3px;
+    border-width: 0px;
+    height: 34px;
+    width: 110px;
+}
+
+
+/* product section */
+
+.VR-product-section{
+    background-color:bisque ;
+}
+
+.Prod-sect-main-heading{
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 44px;
+}
+
+.VR-product1{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    height: 100vh;
+    background-size: cover;
+    border-radius: 4px;
+}
+
+.VR-product2{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    height: 100vh;
+    background-size: cover;
+    border-radius: 4px;
+}
+
+.product-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 66px;
+
+}
+
+.product-price{
+    color: white;
+}
+
+.btn-product-buy{
+    background-color: transparent;
+    color: white;
+    border-radius: 7px;
+    border-color: white;
+    height: 65px;
+    width: 167px;
+}
+
+
+/* follow us section */
+
+.thanking-customers-section {
+    background-color: hwb(60 73% 7% / 0.885);
+}
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+/* Styling for icon */
+
+.icon{
+    color: #d0b200;
+    font-size: 55px;
+}
+
+.follow-us-icon-container{
+    width: 90px;
+    height: 90px;
+    background-color: #faf7e8;
+    padding-right: 22px;
+    padding-left: 20px;
+    padding-top: 22px;
+    padding-bottom: 24px;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+
+
+/* Styling for footer */
+
+.footer-section{
+    background-color: #19232d;
+}
+
+.icons{
+    color: #5a7184 ;
+    font-size: 23px;
+    width: 50px;
+    height: 50px;
+    background-color: #202b36;
+    padding-right: 38px;
+    padding-left: 17px;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+.adress-section{
+    color: #5a7184;
+}
+
+.contact-heading{
+    color: #5a7184;
+    font-size: 34px;
+}
+
+.icons1{
+    color: #5a7184 ;
+    font-size: 23px;
+}
+
+.let-us-help-section{
+    color: #5a7184 ;
+}
+
+.copyrigt-heading{
+    text-align: center;
+    color: #5a7184;
+}
+
